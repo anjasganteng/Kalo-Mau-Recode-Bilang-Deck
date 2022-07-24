@@ -46,23 +46,23 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/AryBotz'
-global.sgh = 'https://github.com/arybotz'
-global.sgc = 'https://chat.whatsapp.com/JWMl9LW5g0i0RSj7ophXAk'
-global.sdc = 'https://github.com/arybotz'
-global.snh = 'https://youtube.com/c/AryBotz'
+global.sig = 'https://instagram.com/a_e_b_2003'
+global.sgh = 'https://github.com/ahmed1p7'
+global.sgc = 'https://cutt.ly/fLELypq/'
+global.sdc = 'https://github.com/ahmed1p7 '
+global.snh = 'https://youtube.com'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085762008398'
+global.pdana = ' 393271166550 '
 global.povo = 'Gaada bang :v'
 global.pgopay = 'Gaada bang :v'
-global.ppulsa = '085762008398'
-global.ppulsa2 = '085762008398'
+global.ppulsa = ' 393271166550 '
+global.ppulsa2 = ' 393271166550 '
 global.psaweria = 'https://saweria.co/arybotz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285763050960'
-global.nomorown = '994408465157'
+global.nomorbot = ' 393271166550 '
+global.nomorown = ' 393271166550 '
 global.namebot = 'AryBotz Ofc'
 global.nameown = 'X Ary Offcial'
 
